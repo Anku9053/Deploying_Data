@@ -1,0 +1,185 @@
+{
+    "students": [
+      {
+        "studentId": 1,
+        "name": "John Doe",
+        "mobile": "123-456-7890",
+        "email": "john.doe@example.com",
+        "skills": ["Python", "JavaScript", "HTML", "CSS"],
+        "dob": "1999-05-15",
+        "gender": "Male"
+      },
+      {
+        "studentId": 2,
+        "name": "Alice Smith",
+        "mobile": "987-654-3210",
+        "email": "alice.smith@example.com",
+        "skills": ["Java", "C++", "SQL"],
+        "dob": "2000-08-22",
+        "gender": "Female"
+      },
+      {
+        "studentId": 3,
+        "name": "Michael Johnson",
+        "mobile": "555-123-4567",
+        "email": "michael.johnson@example.com",
+        "skills": ["Ruby", "PHP", "Swift"],
+        "dob": "1998-11-10",
+        "gender": "Male"
+      },
+      {
+        "studentId": 4,
+        "name": "Emily Brown",
+        "mobile": "111-222-3333",
+        "email": "emily.brown@example.com",
+        "skills": ["React", "Angular", "Node.js"],
+        "dob": "1997-03-25",
+        "gender": "Female"
+      },
+      {
+        "studentId": 5,
+        "name": "David Wilson",
+        "mobile": "444-555-6666",
+        "email": "david.wilson@example.com",
+        "skills": ["C#", "ASP.NET", "MVC"],
+        "dob": "2001-01-08",
+        "gender": "Male"
+      },
+      {
+        "studentId": 6,
+        "name": "Sophia Martinez",
+        "mobile": "777-888-9999",
+        "email": "sophia.martinez@example.com",
+        "skills": ["Django", "Flask", "Python"],
+        "dob": "1996-07-30",
+        "gender": "Female"
+      },
+      {
+        "studentId": 7,
+        "name": "Daniel Taylor",
+        "mobile": "666-777-8888",
+        "email": "daniel.taylor@example.com",
+        "skills": ["JavaScript", "React", "Vue.js"],
+        "dob": "1999-09-18",
+        "gender": "Male"
+      },
+      {
+        "studentId": 8,
+        "name": "Olivia Anderson",
+        "mobile": "222-333-4444",
+        "email": "olivia.anderson@example.com",
+        "skills": ["Java", "Spring Boot", "Hibernate"],
+        "dob": "2002-04-12",
+        "gender": "Female"
+      },
+      {
+        "studentId": 9,
+        "name": "James Garcia",
+        "mobile": "999-888-7777",
+        "email": "james.garcia@example.com",
+        "skills": ["Python", "Django", "JavaScript"],
+        "dob": "1997-12-05",
+        "gender": "Male"
+      },
+      {
+        "studentId": 10,
+        "name": "Emma Brown",
+        "mobile": "888-999-0000",
+        "email": "emma.brown@example.com",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "dob": "2000-02-20",
+        "gender": "Female"
+      },
+      {
+        "studentId": 11,
+        "name": "Ethan Wilson",
+        "mobile": "333-444-5555",
+        "email": "ethan.wilson@example.com",
+        "skills": ["React", "Redux", "Node.js"],
+        "dob": "1998-06-14",
+        "gender": "Male"
+      },
+      {
+        "studentId": 12,
+        "name": "Ava Thomas",
+        "mobile": "666-111-2222",
+        "email": "ava.thomas@example.com",
+        "skills": ["Java", "Spring", "Hibernate"],
+        "dob": "1999-10-03",
+        "gender": "Female"
+      },
+      {
+        "studentId": 13,
+        "name": "Noah Rodriguez",
+        "mobile": "555-222-3333",
+        "email": "noah.rodriguez@example.com",
+        "skills": ["C++", "Python", "Machine Learning"],
+        "dob": "1997-04-28",
+        "gender": "Male"
+      },
+      {
+        "studentId": 14,
+        "name": "Mia Garcia",
+        "mobile": "777-666-5555",
+        "email": "mia.garcia@example.com",
+        "skills": ["JavaScript", "React Native", "Node.js"],
+        "dob": "2001-08-17",
+        "gender": "Female"
+      },
+      {
+        "studentId": 15,
+        "name": "Liam Martinez",
+        "mobile": "999-000-1111",
+        "email": "liam.martinez@example.com",
+        "skills": ["Ruby on Rails", "Angular", "SQL"],
+        "dob": "1996-11-09",
+        "gender": "Male"
+      },
+      {
+        "studentId": 16,
+        "name": "Charlotte Brown",
+        "mobile": "222-333-4444",
+        "email": "charlotte.brown@example.com",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "dob": "2000-03-22",
+        "gender": "Female"
+      },
+      {
+        "studentId": 17,
+        "name": "Mason Wilson",
+        "mobile": "444-555-6666",
+        "email": "mason.wilson@example.com",
+        "skills": ["Java", "Spring Boot", "MongoDB"],
+        "dob": "1998-07-31",
+        "gender": "Male"
+      },
+      {
+        "studentId": 18,
+        "name": "Amelia Taylor",
+        "mobile": "888-999-0000",
+        "email": "amelia.taylor@example.com",
+        "skills": ["Python", "Django", "Flask"],
+        "dob": "1997-02-11",
+        "gender": "Female"
+      },
+      {
+        "studentId": 19,
+        "name": "Benjamin Hernandez",
+        "mobile": "111-222-3333",
+        "email": "benjamin.hernandez@example.com",
+        "skills": ["C#", ".NET Core", "Azure"],
+        "dob": "2001-05-19",
+        "gender": "Male"
+      },
+      {
+        "studentId": 20,
+        "name": "Evelyn Adams",
+        "mobile": "777-888-9999",
+        "email": "evelyn.adams@example.com",
+        "skills": ["React", "Redux", "Node.js"],
+        "dob": "1996-09-27",
+        "gender": "Female"
+      }
+    ]
+  }
+  
